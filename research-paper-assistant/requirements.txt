@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+nltk
+transformers
+torch
+tensorflow
+beautifulsoup4
+requests
+pytest
