@@ -1,5 +1,3 @@
-# README.md
-
 # Automated Research Paper Summarizer and Title Generator
 
 This project aims to assist researchers by automating the process of summarizing scientific papers and generating appropriate titles.
@@ -15,7 +13,7 @@ This project aims to assist researchers by automating the process of summarizing
 
 To install the required dependencies, run:
 
-```
+```sh
 pip install -r requirements.txt
 ```
 
@@ -23,7 +21,7 @@ pip install -r requirements.txt
 
 To run the application, execute the following command:
 
-```
+```sh
 python src/main.py
 ```
 
@@ -48,6 +46,10 @@ research-paper-assistant
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
+
+## Author
+
+This project was developed by DevSAllen.
 
 ## License
 
